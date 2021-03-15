@@ -5,7 +5,7 @@ Basic flashcard app.
 
 ### App Walk-though
 
-<img src="https://github.com/ponetteRS/CardiFlash/raw/main/3.0_flashcard.gif" width=200><br>
+<img src="https://imgur.com/a/NsgnBs3", width=250 />
 
 ## Required
 - [X] User can open the creation screen
