@@ -5,7 +5,7 @@ Basic flashcard app.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/gTNU5OI", width=250 />
+<img src="https://imgur.com/a/gTNU5OI", width="250" />
 
 
 <img src="https://github.com/ponetteRS/CardiFlash/raw/main/5.0_flashcard.gif" width="250" />
