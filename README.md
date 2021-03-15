@@ -7,6 +7,8 @@ Basic flashcard app.
 
 <img src="https://imgur.com/a/NsgnBs3", width=250 />
 
+<img src="https://github.com/ponetteRS/CardiFlash/raw/main/4.0_flashcard.gif", width=250 />
+
 ## Required
 - [X] User can open the creation screen
 - [X] User can cancel out of the creation screen
