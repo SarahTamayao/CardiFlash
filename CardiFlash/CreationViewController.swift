@@ -22,6 +22,8 @@ class CreationViewController: UIViewController {
         //call the function to update the flashcard
         flashcardsController.updateFlashcard(question: questionText!, answer: answerText!)
         
+        //front_label.isHidden = false
+        
         //dismiss
         dismiss(animated: true)
         

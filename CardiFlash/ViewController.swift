@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         front_label.text = question
         back_label.text = answer
         //backLabel.text = answer
+        front_label.isHidden = false //trying to fix answer part
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
